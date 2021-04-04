@@ -1,0 +1,52 @@
+.cadastro{
+    background-color: #ecf0f1;
+    
+}
+
+
+.caixa_cadastro{
+    width: 333px;
+    padding: 40px 20px 0px 120px;
+   display: inline-block;
+    
+    
+}
+
+.but_cadastrar{
+    color: white;
+    background-color: green;
+    margin: 20px 0 50px 0;
+    border: 0;
+    padding: 10px 17px;
+    border-radius: 5px;
+    float: left;
+    cursor: pointer;
+    width: 100px;
+}
+
+.inp_padrao{
+    width: 415px;
+    height: 25px;
+}
+
+
+
+.img_slogan{
+    width: 300px ;
+    padding: 174px 20px 0 373px;
+}
+
+
+.rodape_cadastro{
+    width: 100%;
+    height: 60px;
+    background-color: orangered;
+    position: absolute;
+    bottom: 0px;
+  }
+
+  .caixa_rodape_cadastro{
+    text-align: center;
+    color: white;
+    
+ }
